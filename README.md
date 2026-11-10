@@ -2,7 +2,7 @@
 
 **Autor:** Francesco Boito Diaz  
 **Legajo:** 53136  
-**Materia:** Informática II — Ingeniería Electrónica, UTN FRM  
+**Materia:** Informática II — Ingeniería Telecom, UTN FRM  
 **Ciclo lectivo:** 2026
 
 Este trabajo permite observar dos entradas digitales de Arduino y controlar dos LEDs desde una interfaz de Processing. El pulsador y el switch también controlan sus LEDs correspondientes. Arduino transmite los niveles de entrada y los estados de salida para mantener actualizada la pantalla.
