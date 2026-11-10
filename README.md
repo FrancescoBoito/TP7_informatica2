@@ -9,8 +9,7 @@ Este trabajo permite observar dos entradas digitales de Arduino y controlar dos 
 
 ## Video de demostración 
 
-https://youtube.com/shorts/2NnKx0Wrlv8    video mostrando funcionamiento
-
+https://youtube.com/shorts/2NnKx0Wrlv8  
 
 ## Empezar desde cero
 
